@@ -1,5 +1,5 @@
 // Make connection
-var socket = io.connect('https://chat-sockets-ze2j.onrender.com');
+var socket = io.connect('https://chat-3f95.onrender.com');
 
 // Query DOM
 var message = document.getElementById('message'),
